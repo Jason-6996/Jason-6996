@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">💻CODING is my Warmup, DEBUGGING is my Cardio❤️</h3>
 
 <p align="left">
   <img
@@ -9,7 +9,6 @@
 </p>
 
 - 🔭 I’m currently working on **papay**
-- CODING is my Warmup, DEBUGGING is my Cardio...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
