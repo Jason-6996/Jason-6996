@@ -8,7 +8,8 @@
   />
 </p>
 
-- 🔭 I’m currently working on **papay**  CODING is my Warmup, DEBUGGING is my Cardio...
+- 🔭 I’m currently working on **papay**
+- CODING is my Warmup, DEBUGGING is my Cardio...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
