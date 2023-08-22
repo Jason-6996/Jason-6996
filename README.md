@@ -8,7 +8,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **papay**
+- 🔭 I’m currently working on **My project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
